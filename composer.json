@@ -27,11 +27,6 @@
       "Hyvor\\Sdk\\": "src/"
     }
   },
-  "autoload-dev": {
-    "psr-4": {
-      "Hyvor\\Sdk\\Tests\\": "tests/"
-    }
-  },
   "minimum-stability": "stable",
   "prefer-stable": true,
   "config": {
